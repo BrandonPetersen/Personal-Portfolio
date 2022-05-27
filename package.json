@@ -8,7 +8,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "drei": "^1.5.3",
+    "drei": "^1.0.0",
     "lerp": "^1.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -16,7 +16,7 @@
     "react-scripts": "^5.0.1",
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.2.21",
-    "three": "^0.120.1"
+    "three": "^0.141.0"
   },
   "scripts": {
     "start": "react-scripts start",
